@@ -34,7 +34,7 @@ I expected what was advertised, I already knew going in what it was and it's bee
 
 I run the AIOmagic bundle to use on stremio, I use TorBox, EasyNews and Real Debrid as providers, I use Elfhosted's great tool Debridge which has been great for Usenet content.
 
-For add-ons inside I use torrentio, the elfhosted add-ons, all those sorts of things and it's been working flawlessly for a while, I've been with Elfhosted for about 3/4 months overall and never once have I had to put in any complaints or requests for bugfixes
+For add-ons inside I use community add-ons, the elfhosted add-ons, all those sorts of things and it's been working flawlessly for a while, I've been with Elfhosted for about 3/4 months overall and never once have I had to put in any complaints or requests for bugfixes
 
 Apps I chose to name: aiostreams, [postersplus](https://docs.elfhosted.com/app/postersplus/), [aiometadata](https://docs.elfhosted.com/app/aiometadata/).
 
@@ -108,7 +108,7 @@ Absolutely, it's the convenience of it, I can either pay for a bunch of apps... 
 
 **Which subscriptions, hardware or hours did ElfHosted replace for you?**
 
-Netflix, Disney+, HBO, Sky, Amazon Prime video
+Mostly the usual ones you'd expect from these services, however the hours were especially useful because it's just a real timesaver, previously rate limits and maintenance was annoying but not with Elf-Hosted
 
 **Which plan or apps do you pay for?**
 
